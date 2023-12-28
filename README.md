@@ -1,16 +1,14 @@
 # Human Activity Recognition
-This project is about using Deep Learning algorithms in order to build an AI software to recognize day to day human activities or actions. We are using state of the art Computer Vision models like InceptionV3 to extract key features from videos frames and trained a sequence model classifier to recognize a set of actions or activities choosen upfront
-We used this [paper](https://arxiv.org/pdf/1411.4389.pdf) as an inspiration 
+
 #### -- Project Status: [Active, On-Hold, Completed]
 
 ## Project Intro/Objective
+This project is about using Deep Learning algorithms in order to build an AI software to recognize day to day human activities or actions. We are using state of the art **Computer Vision** models like **InceptionV3** to extract key features from videos frames and trained a sequence model classifier to recognize a set of actions or activities choosen upfront.
+We used this [paper](https://arxiv.org/pdf/1411.4389.pdf) as an inspiration.
+
 The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+
 
 ### Methods Used
 * Inferential Statistics
@@ -19,15 +17,10 @@ The purpose of this project is ________. (Describe the main goals of the project
 * Predictive Modeling
 * etc.
 
-### Technologies
-* R 
+### Technologies / Frameworks used 
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+* OpenCV
+* Tensorflow, Keras
 
 ## Project Description
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
