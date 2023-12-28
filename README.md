@@ -33,22 +33,20 @@ We have use a subset (10 actions) of [UCF101](https://www.crcv.ucf.edu/data/UCF1
 * PushUps              
 * Swing                
 * TrampolineJumping    
-* Typing               
+* Typing
+
+
+## Working principle
+The following pictures explains how our models takes in raw video data and output its associated activity or action label.
+
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
-## Needs of this project
 
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+2. You can download raw data from hereRaw Data is being kept [here](Repo folder containing raw data) within this repo.
 
     *If using offline data mention that and how they may obtain the data from the froup)*
     
@@ -65,18 +63,5 @@ We have use a subset (10 actions) of [UCF101](https://www.crcv.ucf.edu/data/UCF1
 * [Blog Post](link)
 
 
-## Contributing DSWG Members
 
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
 
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
-
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
