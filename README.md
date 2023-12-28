@@ -1,8 +1,8 @@
 # Human Activity Recognition
 
-#### -- Project Status: [Active, On-Hold, Completed]
 
-## Project Intro/Objective
+
+## Project Intro
 This project is about using Deep Learning algorithms in order to build an AI software to recognize day to day human activities or actions. We are using state of the art **Computer Vision** models like **InceptionV3** to extract key features from videos frames and trained a sequence model classifier to recognize a set of actions or activities choosen upfront.
 We used this [paper](https://arxiv.org/pdf/1411.4389.pdf) as an inspiration.
 ### Technologies / Frameworks used 
