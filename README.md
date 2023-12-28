@@ -5,18 +5,6 @@
 ## Project Intro/Objective
 This project is about using Deep Learning algorithms in order to build an AI software to recognize day to day human activities or actions. We are using state of the art **Computer Vision** models like **InceptionV3** to extract key features from videos frames and trained a sequence model classifier to recognize a set of actions or activities choosen upfront.
 We used this [paper](https://arxiv.org/pdf/1411.4389.pdf) as an inspiration.
-
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
-
-
-
-### Methods Used
-* Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
-* etc.
-
 ### Technologies / Frameworks used 
 * ![Static Badge](https://img.shields.io/badge/Python-3.8-green)
 * ![Static Badge](https://img.shields.io/badge/opencv-4.8-green)
