@@ -1,0 +1,4 @@
+dataset/*
+har/*
+utility/__pycache__/*
+models/video*

@@ -1,0 +1,2 @@
+model_checkpoint_path: "BILSTM_classifier"
+all_model_checkpoint_paths: "BILSTM_classifier"
