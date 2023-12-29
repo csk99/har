@@ -40,7 +40,7 @@ The following pictures explains how our models takes in raw video data and outpu
     *Choose the activities videos folders you're interested in (or everything) and put them inside the dataset folder*
     *NOte: Be aware that the whole dataset of UCF is about 6.5Go*
     
-3. Create a virtual env in the project folder (for help see this [tutorial](https://www.freecodecamp.org/news how-to-setup-virtual-environments-in-python/))
+3. Create a virtual env in the project folder (for help see this [tutorial](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/))
 4. Run the following command to install the necessary packages
 * For linux users:
 ```
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ```
 
 
-5. Open the Har.ipynb notebook and run the cells.\\
+5. Open the Har.ipynb notebook and run the cells.
 *Please choose the python virtual environment you created previously*
 
 
