@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ```
 
 
-5. Open the Har.ipynb notebook and run the cells.
+5. Open the Har.ipynb notebook and run the cells.\\
 *Please choose the python virtual environment you created previously*
 
 
