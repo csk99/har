@@ -35,22 +35,25 @@ The following pictures explains how our models takes in raw video data and outpu
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. You can download raw data from hereRaw Data is being kept [here](Repo folder containing raw data) within this repo.
+2. You can download raw data from here Raw Data is being kept [here](https://www.crcv.ucf.edu/data/UCF101/UCF101.rar) .
 
-    *If using offline data mention that and how they may obtain the data from the froup)*
+    *Choose the activities videos folders you're interested in (or everything) and put them inside the dataset folder*
+    *NOte: Be aware that the whole dataset of UCF is about 6.5Go*
     
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
+3. Create a virtual env in the project folder (for help see this [tutorial](https://www.freecodecamp.org/news how-to-setup-virtual-environments-in-python/))
+4. Run the following command to install the necessary packages
+* For linux users:
+```
+pip3 install -r requirements.txt
+```
+* For windows users:
+```
+pip install -r requirements.txt
+```
 
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
 
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
-
+5. Open the Har.ipynb notebook and run the cells
+*Please choose the python virtual environment you created previously*
 
 
 
