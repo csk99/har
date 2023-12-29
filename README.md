@@ -30,7 +30,7 @@ The following pictures explains how our models takes in raw video data and outpu
 
 ## Running time
 In this project, we are handling videos, which pose some challenges in terms of compution especially when reading videos, capturing frames and extracting features via a CNN.
-We tried to leverage the power of parrallel computing when running our code so that everything runs as fast as possible on multiple  CPU cores via multithreading.
+We tried to leverage the power of parrallel computing when running our code so that everything runs as fast as possible on multiple  CPU cores via multithreading.<br> 
 *Note: If possible, run this project on a GPU powered environment for faster computations.*
 
 
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ```
 
 
-5. Open the Har.ipynb notebook and run the cells.
+5. Open the Har.ipynb notebook and run the cells.<br> 
 *Please choose the python virtual environment you created previously*
 
 
