@@ -43,7 +43,7 @@ We tried to leverage the power of parrallel computing when running our code so t
 2. You can download raw data from here Raw Data is being kept [here](https://www.crcv.ucf.edu/data/UCF101/UCF101.rar) .
 
     *Choose the activities videos folders you're interested in (or everything) and put them inside the dataset folder*
-    *NOte: Be aware that the whole dataset of UCF is about 6.5Go*
+    *Note: Be aware that the whole dataset of UCF is about 6.5Go*
     
 3. Create a virtual env in the project folder (for help see this [tutorial](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/))
 4. Run the following command to install the necessary packages
