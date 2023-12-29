@@ -28,7 +28,12 @@ We have use a subset (10 actions) of [UCF101](https://www.crcv.ucf.edu/data/UCF1
 The following pictures explains how our models takes in raw video data and output its associated activity or action label.
 <img src="principle.png" alt="principle">
 
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+## Running time
+In this project, we are handling videos, which pose some challenges in terms of compution especially when reading videos, capturing frames and extracting features via a CNN.
+We tried to leverage the power of parrallel computing when running our code so that everything runs as fast as possible on multiple  CPU cores via multithreading.
+*Note: If possible, run this project on a GPU powered environment for faster computations.*
+
+
 
 
 
