@@ -26,6 +26,7 @@ We have use a subset (10 actions) of [UCF101](https://www.crcv.ucf.edu/data/UCF1
 
 ## Working principle
 The following pictures explains how our models takes in raw video data and output its associated activity or action label.
+![principle](http://principle.png)
 
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
